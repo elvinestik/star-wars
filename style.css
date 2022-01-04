@@ -11,9 +11,9 @@ body, html
 .titles
 {
 	position: absolute;
-	left: 200px;
-	right: 0px;
-	width: 1300px;
+	left: 50%;
+	margin-left: -35%;
+	width: 70%;
 	height: 1500px;
 	bottom: 0;
     display: flex;
